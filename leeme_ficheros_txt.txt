@@ -1,0 +1,5 @@
+Los ficheros de texto que acompañan al proyecto Eclipse presentan el siguiente contenido:
+
+fichero.txt --> Fichero ejemplo para realizar el cifrado
+cifrado.txt --> Resultado de cifrar el contenido del fichero "fichero.txt" en modo ECB con la clave "1234"
+descifrado.txt--> Resultado de descifrar el contenido del fichero "cifrado.txt" en modo ECB con la clave "1234"
